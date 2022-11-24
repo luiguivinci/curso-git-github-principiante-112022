@@ -1,0 +1,104 @@
+commit 80647c2bf1f25a45748c74994b11d31f54bdd236
+Author: Luigui Nuñez Vinci <luigui0014@gmail.com>
+Date:   Thu Nov 24 15:55:17 2022 -0300
+
+    Agregando dos párrafos alindex.html
+
+commit 9d6401bf53507defa32b393c12ca41f3fd112621
+Merge: 987043c 553e938
+Author: Luigui Nuñez Vinci <luigui0014@gmail.com>
+Date:   Wed Nov 23 16:19:58 2022 -0300
+
+    Resolviendo conflicto en Agregando estaciones del año con fecha de inicio
+
+commit 987043c67ba338f80915ea832b51e348a7f2ca58
+Author: Luigui Nuñez Vinci <luigui0014@gmail.com>
+Date:   Fri Nov 18 17:34:27 2022 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 553e938d4d26cd81e16fdcf56fbad6b348c85f58
+Author: Luigui Nuñez Vinci <luigui0014@gmail.com>
+Date:   Fri Nov 18 17:34:27 2022 -0300
+
+    Agregando las estaciones del año en el archivo 'index.html'
+
+commit 855ad552dd48f09b4d8b4172824b08a31a439782
+Merge: 349e86f afc1af5
+Author: Luigui Nuñez Vinci <luigui0014@gmail.com>
+Date:   Fri Nov 18 16:30:45 2022 -0300
+
+    Resolviendo conflicto merge main/html en el documento 'index.html'
+
+commit afc1af5a7b35fbf169912f9dbf7647995d413cd9
+Author: Luigui Nuñez Vinci <luigui0014@gmail.com>
+Date:   Fri Nov 18 16:22:54 2022 -0300
+
+    Agregando 'index.js' al 'index.html'
+
+commit 349e86f596172ea5a251472ce14f25fd23ec9705
+Author: Luigui Nuñez Vinci <luigui0014@gmail.com>
+Date:   Fri Nov 18 16:20:06 2022 -0300
+
+    Agregando 'style.css' al 'index.html'
+
+commit ef4dbb84b21bc4f8d1bb2a0f84a8d36b8614e208
+Merge: 2bc4877 7de3c22
+Author: Luigui Nuñez Vinci <luigui0014@gmail.com>
+Date:   Thu Nov 17 17:28:40 2022 -0300
+
+    Merge branch 'js'
+
+commit 7de3c22995b4cdb707fb137ac5c6a15139e13af6
+Author: Luigui Nuñez Vinci <luigui0014@gmail.com>
+Date:   Thu Nov 17 17:17:36 2022 -0300
+
+    Creando 'index.js'
+
+commit 2bc4877dea4f3a500840531cab1b96f1240c0c23
+Author: Luigui Nuñez Vinci <luigui0014@gmail.com>
+Date:   Thu Nov 17 16:47:14 2022 -0300
+
+    Creado el archivo style.css
+
+commit 81f74e3713ec54793180e70e63bb2e1b873cb269
+Author: Luigui Nuñez Vinci <luigui0014@gmail.com>
+Date:   Thu Nov 17 16:41:27 2022 -0300
+
+    Creando index.html
+
+commit b15b65ebac1916082ad9bd710302c891a7605080
+Author: Luigui Nuñez Vinci <luigui0014@gmail.com>
+Date:   Thu Nov 17 15:36:43 2022 -0300
+
+    Ignorar archivos con extensión .exe
+
+commit 50f1ae636557c37acab6d24ad472f003464d869c
+Author: Luigui Nuñez Vinci <luigui0014@gmail.com>
+Date:   Thu Nov 17 15:31:40 2022 -0300
+
+    Un commit más. xD
+
+commit 54c4c380d18e8fa304881f200c5ad0983d0974bd
+Author: luiguivinci <118451990+luiguivinci@users.noreply.github.com>
+Date:   Thu Nov 17 11:38:50 2022 -0300
+
+    Creando licencia del repositorio
+
+commit 1d2e55b3936f086674c02efecbe42477f4f2a396
+Author: Luigui Nuñez Vinci <luigui0014@gmail.com>
+Date:   Thu Nov 17 11:31:09 2022 -0300
+
+    Agregando más contenido al README
+
+commit 6a7c96bc0123316837a7b5ed88ff6cc4fd34823e
+Author: Luigui Nuñez Vinci <luigui0014@gmail.com>
+Date:   Thu Nov 17 09:54:36 2022 -0300
+
+    Agregando el contenido inicial al README
+
+commit 1998f9ee3c544b19afb046c296f86fc875c74362
+Author: Luigui Nuñez Vinci <luigui0014@gmail.com>
+Date:   Thu Nov 17 09:48:55 2022 -0300
+
+    Primer commit :D
